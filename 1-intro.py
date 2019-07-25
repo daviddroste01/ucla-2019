@@ -1,1 +1,2 @@
-print ('hello world')
+px=(int(input()))
+print(x+25)
