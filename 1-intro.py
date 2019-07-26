@@ -1,2 +1,2 @@
-px=(int(input()))
+x=(int(input()))
 print(x+25)
